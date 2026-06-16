@@ -75,28 +75,77 @@ Passionate about building scalable web applications, REST APIs, and backend syst
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
+
+### 🤖 Interview-AI Project (In Progress)
+**Tech Stack:** React • Node.js • Express.js • MongoDB • AI Integration  
+
+- Developing an AI-based mock interview practice system  
+- System analyzes user answers and provides feedback  
+- Building backend APIs with authentication and secure flow  
+- Focused on improving AI logic and system design  
+
+> ⚙️ Actively working on real-world AI interview platform
+
+
+---
+
+### 🌐 Pixora – Social Media Platform (In Progress)
+**Tech Stack:** React • Node.js • Express.js • MongoDB  
+
+- Building a modern social media platform with real-time features  
+- Users can create posts, like, comment, and interact socially  
+- Implementing authentication and secure user management  
+- Focused on scalable backend and smooth UI experience  
+
+> 🚀 Inspired by Instagram-like social media systems
+
+
+---
+
+### 🎵 Tunify – Music Streaming Platform (Backend)
+**Tech Stack:** Node.js • Express.js • MongoDB • REST APIs  
+
+- Built backend system for a music streaming application  
+- Developed REST APIs for songs, playlists, and users  
+- Implemented authentication and secure data handling  
+- Designed scalable and modular backend architecture  
+
+> 🎧 Backend focused on performance and scalability
+
+
+---
 
 ### 🛒 E-Commerce Website
+**Tech Stack:** PHP • MySQL • Bootstrap  
 
-* PHP, MySQL, Bootstrap
-* Product Search, Categories, Cart Management
+- Product listing with search and category filters  
+- Shopping cart and order management system  
+- Responsive UI with Bootstrap framework  
+- Basic admin panel for product control  
+
+
+---
 
 ### 📚 Student Management System
+**Tech Stack:** Java • JDBC • MySQL  
 
-* Java, JDBC, MySQL
-* CRUD Operations and Database Management
+- Full CRUD operations for student records  
+- Database integration using JDBC  
+- Simple admin management system  
+- Efficient and lightweight desktop-based system  
 
-### 🌐 Full Stack Web Applications
 
-* React, Node.js, Express.js, MongoDB
-* Authentication, REST APIs, Responsive UI
+---
 
-### ☕ Spring Boot Projects
+### ☕ Spring Boot REST API Project
+**Tech Stack:** Spring Boot • JPA • Hibernate • MySQL  
 
-* REST APIs
-* CRUD Operations
-* Database Integration using JPA/Hibernate
+- REST API development with CRUD operations  
+- Database integration using JPA/Hibernate  
+- Secure and structured backend architecture  
+- Clean separation of controller, service, repository layers  
+
 
 ---
 
