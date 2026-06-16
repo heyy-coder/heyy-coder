@@ -39,7 +39,7 @@ Passionate about building scalable web applications, REST APIs, and backend syst
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://github.com/heyy-coder">
+<a href="https://github.com/iamprincedev">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 </p>
@@ -102,23 +102,23 @@ Passionate about building scalable web applications, REST APIs, and backend syst
 
 # 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=heyy-coder\&show_icons=true\&theme=tokyonight\&hide_border=true)
+![](https://github-readme-stats.vercel.app/api?username=iamprincedev\&show_icons=true\&theme=tokyonight\&hide_border=true)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=heyy-coder\&theme=tokyonight\&hide_border=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=iamprincedev\&theme=tokyonight\&hide_border=true)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=heyy-coder\&layout=compact\&theme=tokyonight\&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=iamprincedev\&layout=compact\&theme=tokyonight\&hide_border=true)
 
 ---
 
 # 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=heyy-coder\&theme=tokyonight\&no-frame=true\&row=1\&column=7)
+![](https://github-profile-trophy.vercel.app/?username=iamprincedev\&theme=tokyonight\&no-frame=true\&row=1\&column=7)
 
 ---
 
 # 📈 Contribution Graph
 
-[![Prince Kumar's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=heyy-coder\&theme=tokyo-night)](https://github.com/heyy-coder)
+[![Prince Kumar's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=iamprincedev\&theme=tokyo-night)](https://github.com/heyy-coder)
 
 ---
 
@@ -128,4 +128,4 @@ Passionate about building scalable web applications, REST APIs, and backend syst
 
 ---
 
-⭐ From [Prince Kumar](https://github.com/heyy-coder)
+⭐ From [Prince Kumar](https://github.com/iamprincedev)
