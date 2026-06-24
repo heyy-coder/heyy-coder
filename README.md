@@ -1,180 +1,93 @@
-# 💫 Hi 👋, I'm Prince Kumar
+<div align="center">
 
-<h3 align="center">🚀 Full Stack Developer | MERN Stack | Java & Spring Boot Developer</h3>
+<img src="https://media.giphy.com/media/qgQUggAC3Pft6/giphy.gif" width="280"/>
+
+<a href="https://github.com/iamprincedev">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hey+there%2C+I'm+Prince+%F0%9F%91%8B;Full+Stack+Developer;MERN+%7C+Java+%26+Spring+Boot;Let's+Build+Something+Cool!&font=Fira%20Code&center=true&width=550&height=50&color=FF6B6B&vCenter=true&size=24"/>
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=iamprincedev&label=Profile%20Views&color=FF6B6B&style=for-the-badge" alt="profile views" />
+
+</div>
+
+<br/>
+
+## ✨ A Little About Me
+
+🎓 MCA Graduate from Patliputra University, Class of 2026
+🏅 Ranked **AIR 60** in AINCAT 2026 — proud of that one!
+🧠 I love untangling backend logic and making systems scale
+🔥 Currently leveling up in Microservices, System Design & Cloud
+☕ Powered by curiosity, code, and way too much chai
+🎯 Solving DSA problems daily — one streak at a time
+
+<br/>
+
+## 📬 Let's Talk
 
 <p align="center">
-Passionate about building scalable web applications, REST APIs, and backend systems using Java, Spring Boot, React, Node.js, and MongoDB.
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=heyy-coder&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-</p>
-
----
-
-## 👨‍💻 About Me
-
-🎓 MCA Graduate
-
-💻 Full Stack Developer with strong interest in Backend Development
-
-🌱 Continuously learning Spring Boot, Microservices, System Design & Cloud Technologies
-
-🚀 Building modern web applications using MERN Stack and Java Ecosystem
-
-📫 Email: **[prince200221@gmail.com](mailto:prince200221@gmail.com)**
-
-🔗 Portfolio Projects: Available on my GitHub repositories
-
----
-
-## 🌐 Connect With Me
-
-<p align="left">
 <a href="https://www.linkedin.com/in/prince-kumar-84328b23a/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
 <a href="mailto:prince200221@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
 <a href="https://github.com/iamprincedev">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+<a href="https://leetcode.com/u/heyy_prince/" target="_blank">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+<a href="https://wa.me/918678073094" target="_blank">
+<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+</a>
 </p>
 
----
+<br/>
 
-# 💻 Tech Stack
+## 🛠️ My Toolbox
 
-### Languages
+<p align="center">
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+</p>
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge\&logo=javascript\&logoColor=F7DF1E)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c\&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white)
+<br/>
 
-### Frontend
+## 📊 GitHub Pulse
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=iamprincedev&show_icons=true&theme=radical&hide_border=true" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=iamprincedev&theme=radical&hide_border=true" width="48%"/>
+</p>
 
-### Backend
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamprincedev&layout=compact&theme=radical&hide_border=true" width="48%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=iamprincedev&theme=radical&hide_border=true&height=165" width="48%"/>
+</p>
 
-![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge\&logo=node.js\&logoColor=white)
-![ExpressJS](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge\&logo=express\&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge\&logo=springboot\&logoColor=white)
+<br/>
 
-### Databases
+## 🧩 LeetCode Grind
 
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge\&logo=mongodb\&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+<p align="center">
+<img src="https://leetcard.jacoblin.cool/heyy_prince?theme=dark&font=Poppins&extra=true" width="55%"/>
+</p>
 
----
+<br/>
 
-## 🚀 Featured Projects
+<div align="center">
 
-### 🤖 Interview-AI Project (In Progress)
-**Tech Stack:** React • Node.js • Express.js • MongoDB • AI Integration  
+### 💬 *"Code. Debug. Repeat. Repeat again."*
 
-- Developing an AI-based mock interview practice system  
-- System analyzes user answers and provides feedback  
-- Building backend APIs with authentication and secure flow  
-- Focused on improving AI logic and system design  
+🚀 Thanks for visiting — let's build something great together!
 
-> ⚙️ Actively working on real-world AI interview platform
-
-
----
-
-### 🌐 Pixora – Social Media Platform (In Progress)
-**Tech Stack:** React • Node.js • Express.js • MongoDB  
-
-- Building a modern social media platform with real-time features  
-- Users can create posts, like, comment, and interact socially  
-- Implementing authentication and secure user management  
-- Focused on scalable backend and smooth UI experience  
-
-> 🚀 Inspired by Instagram-like social media systems
-
-
----
-
-### 🎵 Tunify – Music Streaming Platform (Backend)
-**Tech Stack:** Node.js • Express.js • MongoDB • REST APIs  
-
-- Built backend system for a music streaming application  
-- Developed REST APIs for songs, playlists, and users  
-- Implemented authentication and secure data handling  
-- Designed scalable and modular backend architecture  
-
-> 🎧 Backend focused on performance and scalability
-
-
----
-
-### 🛒 E-Commerce Website
-**Tech Stack:** PHP • MySQL • Bootstrap  
-
-- Product listing with search and category filters  
-- Shopping cart and order management system  
-- Responsive UI with Bootstrap framework  
-- Basic admin panel for product control  
-
-
----
-
-### 📚 Student Management System
-**Tech Stack:** Java • JDBC • MySQL  
-
-- Full CRUD operations for student records  
-- Database integration using JDBC  
-- Simple admin management system  
-- Efficient and lightweight desktop-based system  
-
-
----
-
-### ☕ Spring Boot REST API Project
-**Tech Stack:** Spring Boot • JPA • Hibernate • MySQL  
-
-- REST API development with CRUD operations  
-- Database integration using JPA/Hibernate  
-- Secure and structured backend architecture  
-- Clean separation of controller, service, repository layers  
-
-
----
-
-# 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=iamprincedev\&show_icons=true\&theme=tokyonight\&hide_border=true)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=iamprincedev\&theme=tokyonight\&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=iamprincedev\&layout=compact\&theme=tokyonight\&hide_border=true)
-
----
-
-# 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=iamprincedev\&theme=tokyonight\&no-frame=true\&row=1\&column=7)
-
----
-
-# 📈 Contribution Graph
-
-[![Prince Kumar's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=iamprincedev\&theme=tokyo-night)](https://github.com/heyy-coder)
-
----
-
-## ⚡ Fun Fact
-
-💡 I enjoy building backend systems and solving real-world problems through code.
-
----
-
-⭐ From [Prince Kumar](https://github.com/iamprincedev)
+</div>
