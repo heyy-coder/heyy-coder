@@ -6,8 +6,6 @@
 
 <img src="https://readme-typing-svg.demolab.com/?lines=Building+with+MERN%2C+Java+%26+Spring+Boot;Solving+DSA+one+problem+at+a+time;Always+learning%2C+always+shipping&font=Poppins&center=true&width=560&height=35&color=F97316&vCenter=true&size=18&pause=1000"/>
 
-<img src="https://komarev.com/ghpvc/?username=iamprincedev&label=Profile%20Views&color=7C3AED&style=for-the-badge"/>
-
 <p align="center">
 <a href="https://iamprincedev-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-F97316?style=for-the-badge&logo=vercel&logoColor=white"/></a>&nbsp;
 <a href="mailto:prince200221@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>&nbsp;
@@ -16,6 +14,7 @@
 <a href="https://github.com/iamprincedev"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>&nbsp;
 <a href="https://leetcode.com/u/heyy_prince/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
 </p>
+<img src="https://komarev.com/ghpvc/?username=iamprincedev&label=Profile%20Views&color=7C3AED&style=for-the-badge"/>
 
 </div>
 
