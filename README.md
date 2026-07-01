@@ -1,6 +1,8 @@
 <div align="center">
 
- PRINCE KUMAR 
+ <h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=42&duration=3000&pause=999999&color=8A2BE2,F97316&center=true&vCenter=true&repeat=false&width=500&lines=Prince+Kumar" />
+</h1>
 
 <img src="https://readme-typing-svg.demolab.com/?lines=Building+with+MERN%2C+Java+%26+Spring+Boot;Solving+DSA+one+problem+at+a+time;Always+learning%2C+always+shipping&font=Poppins&center=true&width=560&height=35&color=F97316&vCenter=true&size=18&pause=1000"/>
 
