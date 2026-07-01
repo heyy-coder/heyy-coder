@@ -1,10 +1,19 @@
 <div align="center">
 
-# Prince Kumar
+ PRINCE KUMAR 
 
-### Full Stack Developer &nbsp;·&nbsp; MERN Stack &nbsp;·&nbsp; Java & Spring Boot
+<img src="https://readme-typing-svg.demolab.com/?lines=Building+with+MERN%2C+Java+%26+Spring+Boot;Solving+DSA+one+problem+at+a+time;Always+learning%2C+always+shipping&font=Poppins&center=true&width=560&height=35&color=F97316&vCenter=true&size=18&pause=1000"/>
 
-<img src="https://readme-typing-svg.demolab.com/?lines=Building+with+MERN%2C+Java+%26+Spring+Boot;Solving+DSA+one+problem+at+a+time;Always+learning%2C+always+shipping&font=Poppins&center=true&width=560&height=35&color=10B981&vCenter=true&size=18&pause=1000"/>
+<img src="https://komarev.com/ghpvc/?username=iamprincedev&label=Profile%20Views&color=7C3AED&style=for-the-badge"/>
+
+<p align="center">
+<a href="https://iamprincedev-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-F97316?style=for-the-badge&logo=vercel&logoColor=white"/></a>&nbsp;
+<a href="mailto:prince200221@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>&nbsp;
+<a href="https://wa.me/918678073094"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>&nbsp;
+<a href="https://www.linkedin.com/in/prince-kumar-84328b23a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;
+<a href="https://github.com/iamprincedev"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>&nbsp;
+<a href="https://leetcode.com/u/heyy_prince/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+</p>
 
 </div>
 
@@ -16,61 +25,112 @@ I'm a Full Stack Developer who enjoys working on backend architecture and buildi
 
 I hold an **MCA** from A.N. College Patna *(Patliputra University, 2024–2026)* and a **BCA** from Cimage Group of Institutions *(Patliputra University, 2021–2024)*.
 
-<p align="center">
-<a href="mailto:prince200221@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>&nbsp;
-<a href="https://wa.me/918678073094"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white"/></a>&nbsp;
-<a href="https://www.linkedin.com/in/prince-kumar-84328b23a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>&nbsp;
-<a href="https://github.com/iamprincedev"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>&nbsp;
-<a href="https://leetcode.com/u/heyy_prince/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black"/></a>
-</p>
 <br>
 
 ## Projects
 
-**🎵 Tunify — Music Streaming Backend**
-A REST API for a music streaming application, with JWT-based authentication, role-based access control (RBAC), and ImageKit integration for media handling.
+### 🤖 Interview-AI &nbsp; `MERN / AI` &nbsp; ![status](https://img.shields.io/badge/status-in%20progress-yellow?style=flat-square)
+**`POST /api/resume/compare`**
 
-<img src="https://readme-typing-svg.demolab.com/?lines=Node.js+%C2%B7+Express+%C2%B7+MongoDB+%C2%B7+JWT+%C2%B7+RBAC&font=Fira+Code&center=true&width=420&height=28&color=10B981&vCenter=true&size=14&pause=2000&repeat=true"/>
+A resume comparison tool — upload two versions (or your resume against a target job description) and it flags what's weak, what's missing, and what to fix, instead of just spitting out a generic score.
 
-**🤖 Interview-AI — AI Mock Interview Platform** *(In Progress)*
-An AI-powered mock interview practice system that analyzes user responses and gives feedback, with secure authentication flows on the backend.
+- Side-by-side resume comparison with section-level diffing
+- Highlights weak or missing areas with specific improvement notes
+- MERN stack, session-based analysis flow
+- Currently in active development
 
-<img src="https://readme-typing-svg.demolab.com/?lines=React+%C2%B7+Node.js+%C2%B7+Express+%C2%B7+MongoDB+%C2%B7+AI&font=Fira+Code&center=true&width=460&height=28&color=FFA116&vCenter=true&size=14&pause=2000&repeat=true"/>
+`React` `Node.js` `Express` `MongoDB` &nbsp;·&nbsp; [view code](https://github.com/iamprincedev/interview-ai)
+
+<br>
+
+### 🎵 Tunify &nbsp; `backend` &nbsp; ![status](https://img.shields.io/badge/status-shipped-brightgreen?style=flat-square)
+**`GET /api/tunify/tracks`**
+
+A music-streaming backend built solo, with role-based access for artists and listeners. The part I'm proudest of: authentication and file handling that actually hold up — hashed passwords, signed cookies, and cloud media that doesn't choke on upload.
+
+- JWT auth with bcrypt hashing and secure, httpOnly cookie sessions
+- Role-based access control separating Artist / Listener / Admin
+- Music & album upload pipeline via Multer + ImageKit cloud storage
+- Mongoose schemas for Users, Music and Albums with real validation
+
+`Node.js` `Express` `MongoDB` `JWT` `Multer` `ImageKit` &nbsp;·&nbsp; [view code](https://github.com/iamprincedev/tunify-backend)
+
+<br>
+
+### 📱 Pixora &nbsp; `full stack` &nbsp; ![status](https://img.shields.io/badge/status-shipped-brightgreen?style=flat-square)
+**`GET /api/feed`**
+
+A full-stack social media platform for creating and sharing posts — built to get comfortable with feed logic and data modeling at a slightly bigger scale than a typical CRUD app.
+
+- Post creation, retrieval and feed management via REST APIs
+- MongoDB schemas for users, posts and interactions
+- React frontend consuming a custom Express API
+
+`React` `Node.js` `Express` `MongoDB` &nbsp;·&nbsp; [view code](https://github.com/iamprincedev/pixora)
+
+<br>
+
+### 🎨 Starkify &nbsp; `frontend` &nbsp; ![status](https://img.shields.io/badge/status-shipped-brightgreen?style=flat-square)
+**`GET /ui/components`**
+
+A responsive React front end built to practice component architecture and UI polish — dynamic data rendering against mock APIs, styled with Tailwind.
+
+- Responsive UI built with React + Tailwind CSS
+- Mock API integration for dynamic data rendering and testing
+- Focus on clean, reusable component structure
+
+`React` `Tailwind CSS` `Mock API` &nbsp;·&nbsp; [view code](https://github.com/iamprincedev/starkify)
+
+<br>
+
+### 🧠 CalmChor &nbsp; `mobile` &nbsp; ![status](https://img.shields.io/badge/status-shipped-brightgreen?style=flat-square)
+**`GET /api/quiz/session`**
+
+An Android quiz app that pulls a fresh set of 10 random questions per session and shows a clean right/wrong breakdown once you submit — built to be fast and distraction-free.
+
+- Firebase Auth + Realtime Database for session and score storage
+- Randomized question sets per session via REST calls
+- Post-submission result screen with answer review
+
+`Java` `Android Studio` `Firebase` `REST API` &nbsp;·&nbsp; [view code](https://github.com/iamprincedev/calmchor)
+
+<br>
+
+### 🛒 Prince Store &nbsp; `e-commerce` &nbsp; ![status](https://img.shields.io/badge/status-shipped-brightgreen?style=flat-square)
+**`GET /store/products`**
+
+A PHP-based e-commerce storefront — product catalog, cart and checkout flow, and a lightweight admin panel for managing inventory, built without a framework to get the fundamentals of server-side rendering and session handling right.
+
+- Product catalog with cart and checkout flow
+- Admin panel for managing products and inventory
+- Session-based cart handling in core PHP
+
+`PHP` `MySQL` `HTML/CSS` `JavaScript` &nbsp;·&nbsp; [view code](https://github.com/iamprincedev/myWeb)
 
 <br>
 
 ## Stack
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
-<br>
-
-## GitHub Stats
-
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=iamprincedev&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamprincedev&layout=compact&theme=tokyonight&hide_border=true"/>
-
+<img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,react,js,mongodb,mysql,tailwind,php,firebase,git&theme=dark" />
 </p>
 
 <br>
 
-## Contribution Snake
+<img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=40&section=header&text=GitHub%20Activity&fontSize=24&fontColor=F97316&fontAlignY=70"/>
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/iamprincedev/iamprincedev/output/github-contribution-grid-snake.svg" width="80%"/>
-</div>
+<p align="center">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=iamprincedev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F97316&icon_color=7C3AED&text_color=c9d1d9&count_private=true&cache_seconds=3600"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamprincedev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F97316&text_color=c9d1d9&cache_seconds=3600"/>
+</p>
+
+<p align="center">
+<img src="https://streak-stats.demolab.com/?user=iamprincedev&theme=tokyonight&hide_border=true&background=0D1117&ring=F97316&fire=7C3AED&currStreakLabel=F97316"/>
+</p>
+
+<p align="center">
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=iamprincedev&theme=react-dark&hide_border=true&bg_color=0D1117&color=F97316&line=7C3AED&point=ffffff"/>
+</p>
 
 <br>
 
@@ -90,7 +150,8 @@ An AI-powered mock interview practice system that analyzes user responses and gi
 
 > *"First, solve the problem. Then, write the code."* — John Johnson
 
-<sub>**Prince Kumar**</sub>
-<sub>[prince200221@gmail.com](mailto:prince200221@gmail.com)</sub>
+<sub>**Prince Kumar**  ·  [prince200221@gmail.com](mailto:prince200221@gmail.com)  ·  [Portfolio](https://iamprincedev-portfolio.vercel.app/)</sub>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:F97316&height=100&section=footer"/>
 
 </div>
